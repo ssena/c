@@ -1,0 +1,10 @@
+.bash_history
+.bash_logout
+.bashrc
+.gnupg
+.profile
+.viminfo
+.gitconfig
+a.out
+*.o
+
