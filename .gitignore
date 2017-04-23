@@ -5,6 +5,7 @@
 .profile
 .viminfo
 .gitconfig
+.lesshst
 a.out
 *.o
 
