@@ -1,5 +1,5 @@
 
-CFLAGS=-Wall -g -std=c11
+CFLAGS= -O3 -Wall -g -std=c11 
 
 
 wordcount:	wordcount.o
